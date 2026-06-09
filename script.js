@@ -1,4 +1,4 @@
-const API = "https://sitelesbi.onrender.com/";
+const API = "https://sitelesbi.onrender.com";
 
 const text = document.getElementById("text");
 const file = document.getElementById("file");
